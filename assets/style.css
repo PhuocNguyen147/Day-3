@@ -16,10 +16,8 @@ figcaption {
     text-align: center;
 }
 
-p {
-    margin: 30px 0;
-}
-
-li {
-    margin: 15px 0;
+.content p,
+ul,
+ol {
+    margin: 60px 0;
 }
